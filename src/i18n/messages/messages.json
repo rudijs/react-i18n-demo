@@ -1,0 +1,42 @@
+[
+  {
+    "id": "about.home",
+    "defaultMessage": "Home",
+    "filepath": "src/components/About.js"
+  },
+  {
+    "id": "app.about",
+    "defaultMessage": "About Us",
+    "filepath": "src/components/About.js"
+  },
+  {
+    "id": "app.title",
+    "defaultMessage": "Welcome to React",
+    "filepath": "src/components/Main.js"
+  },
+  {
+    "id": "app.content1",
+    "defaultMessage": "To get started, edit",
+    "filepath": "src/components/Main.js"
+  },
+  {
+    "id": "app.content2",
+    "defaultMessage": "and save to reload.",
+    "filepath": "src/components/Main.js"
+  },
+  {
+    "id": "app.content3",
+    "defaultMessage": "External link examples (page reload)",
+    "filepath": "src/components/Main.js"
+  },
+  {
+    "id": "app.about",
+    "defaultMessage": "About Us",
+    "filepath": "src/components/Main.js"
+  },
+  {
+    "id": "navbar.title",
+    "defaultMessage": "Navigation Bar",
+    "filepath": "src/components/Navbar.js"
+  }
+]
